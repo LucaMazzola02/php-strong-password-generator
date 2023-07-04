@@ -41,11 +41,9 @@ Gestire ulteriori parametri per la password: quali caratteri usare fra numeri, l
                 <div class="flex">
                     <label for="password">
                         lunghezza password : 
-                        <?php echo strlen($password); ?>
-                                
+                        <?php echo strlen($password); ?>                               
                     </label>
                 </div>
-                
                 <input type="submit" value="check">
              </form>
         </div>

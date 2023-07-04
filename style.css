@@ -30,6 +30,14 @@ body{
     justify-content: space-between;
 }
 
-.flex input{
-    margin-bottom: 3rem;
+.form-layout input{
+    margin-top: 3rem;
+    padding: .6rem 1.8rem;
+    background-color: coral;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+}
+.form-layout input:hover{
+    background-color: rgb(255, 68, 0);
 }
