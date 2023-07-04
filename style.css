@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(0,22,50,255);
+    padding: 5rem 0;
+}
+
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h1{
+    color: rgba(129,139,154,255);
+}
+
+.container h2{
+    color: #fff;
+}
+
+
+.form-layout{
+    text-align: left;
+    background-color: rgba(248,249,250,255);
+    padding: 2rem;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex input{
+    margin-bottom: 3rem;
+}
